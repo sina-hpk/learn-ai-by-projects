@@ -1,2 +1,12 @@
 # learn-ai-by-projects
-A personal collection of AI projects for learning through hands-on, project-based practice – from basic games to advanced computer vision.
+
+A personal repository for learning Artificial Intelligence through hands-on, project-based practice.
+
+## 📌 About
+This repo will collect AI projects ranging from beginner to advanced levels. The goal is to learn AI concepts by building practical projects, step by step.
+
+## 🚀 Status
+🛠️ Work in progress – projects will be added over time.
+
+## 👤 Author
+Sina_Hpk
